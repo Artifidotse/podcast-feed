@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Reimagining Learning in the Age of AI</title>
+    <link>https://drive.google.com/file/d/1JwykSSf7vRwGxxCQg637DxlsMxty6dZx/view?usp=drive_link</link>
+    <description>Listen to a podcast that explores AI's role in the future of learning, featuring an interview with Dr. Philippa Hardman, a leading expert in the field, as part of the Learning Designers Community.</description>
+    <language>en-US</language>
+    <item>
+      <title>Reimagining Learning in the Age of AI</title>
+      <description>Listen to a podcast that explores AI's role in the future of learning, featuring an interview with Dr. Philippa Hardman, a leading expert in the field, as part of the Learning Designers Community.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1JwykSSf7vRwGxxCQg637DxlsMxty6dZx" length="21200000" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
